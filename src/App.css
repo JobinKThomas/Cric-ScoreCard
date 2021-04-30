@@ -1,0 +1,48 @@
+h1 {
+	font-family: Impact;
+	font-style: italic;
+	color: rgb(77, 4, 4);
+
+}
+
+p {
+	display: inline;
+	font-family: Impact;
+	color: rgb(8, 8, 8);
+}
+
+div {
+	width: 260px;
+	height: 55px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+input {
+	font-family: Impact;
+	font-size: 24px;
+	transform: skew(-21deg);
+	color: white;
+	border: 3px solid white;
+	background-color: #353130;
+	border-radius: 8px;
+}
+
+input:hover {
+	background-color: white;
+	color: #353130;
+}
+
+#score {
+	font-size: 45px;
+	color: white;
+	transform: skew(-21deg);
+	border: 3px solid white;
+	border-radius: 5px;
+}
+
+body {
+	text-align: center;
+	color: white;
+	background-color: #b19a94;
+}
